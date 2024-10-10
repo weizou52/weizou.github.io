@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: "Lato", "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto",  sans-serif;
   color: #222; }
 
 
@@ -161,9 +161,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #468bc2; text-decoration: none;}
+  color: #0088DD; text-decoration: none;}
 a:hover {
-  color: #0FA0CE; }
+  color: #85754d; }
 
 
 /* Buttons
@@ -209,8 +209,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #468bc2;
-  border-color: #468bc2; }
+  background-color: #0088DD;
+  border-color: #0088DD; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -222,8 +222,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #1EAEDB;
-  border-color: #1EAEDB; }
+  background-color: #0088DD;
+  border-color: #0088DD; }
 
 
 /* Forms
